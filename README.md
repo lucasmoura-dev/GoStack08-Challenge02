@@ -8,7 +8,7 @@ Used tools:
 - Sequelize (PostgresSQL);
 - Docker;
 
-##Application
+## Application
 The MeetApp is an app  that aggregates events for developers (Meetup + App).
 
 In this challenge were created some basic features that I have learned throughout the classes so far.
