@@ -1,6 +1,6 @@
 # GoStack Challenge 02
 
-> Objective: Create a new application using Express.
+> Objective: Create a new application using Express. [See full requirements](https://github.com/Rocketseat/bootcamp-gostack-desafio-02 "See full requirements")
 
 Used tools:
 - Sucrase + Nodemon;
